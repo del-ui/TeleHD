@@ -64,7 +64,7 @@ public class MainActivity extends AppCompatActivity {
     }*/
     }
     void signIn(){
-        intent signInIntent = gsc.getSignInIntent();
+        Intent signInIntent = gsc.getSignInIntent();
         startActivityForResult(signInIntent, 1000);
     }
 
@@ -83,7 +83,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-    void navigateToHome(){
+    void navigateToHomeActivity(){
         finish();
         Intent intent = new Intent(MainActivity. this,HomeActivity.class);
         startActivity(intent);
