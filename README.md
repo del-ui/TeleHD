@@ -1,3 +1,3 @@
 # TeleHD
 
-![image](sign.png)
+![image](splashscreen.png)
