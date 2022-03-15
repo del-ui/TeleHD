@@ -4,7 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Kidrapper/AndroidStudioProjects/TeleHD/app/src/main/res/layout/activity_home.xml" value="0.1" />
-        <entry key="..\:/Users/Kidrapper/AndroidStudioProjects/TeleHD/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Kidrapper/AndroidStudioProjects/TeleHD/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Kidrapper/AndroidStudioProjects/TeleHD/app/src/main/res/layout/activity_splashscreen.xml" value="0.11594202898550725" />
       </map>
     </option>
   </component>
@@ -17,7 +18,7 @@
   <component name="VisualizationToolProject">
     <option name="state">
       <ProjectState>
-        <option name="scale" value="0.1" />
+        <option name="scale" value="0.22" />
       </ProjectState>
     </option>
   </component>
